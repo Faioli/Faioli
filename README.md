@@ -1,6 +1,6 @@
 ### Olá, eu sou Henrique Faioli
 
-Trabalho e estudo programação desde 2017, amo desenvolver aplicações e estudar sobre ferramentas e atualizações nesta área.
+Trabalho e estudo desnvolvimento desde 2017, amo desenvolver aplicações e estudar sobre ferramentas e atualizações na área de programação. Tenho conhecimento avançado de Javascript, Html, Css e Nodejs, já trabalhei em desenvolvimento mobile tanto em React native quanto em Flutter. Mesmo tendo um conhecimento fullstack tenho focado meus estudos atualmente no desenvolvimento Frontend. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquefaioli/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickie_faggioli/)
